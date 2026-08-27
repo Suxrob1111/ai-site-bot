@@ -9,7 +9,7 @@ from google import genai
 TELEGRAM_TOKEN = "8798889526:AAEQ05WFNp-vGi5KwqLJRULZI8QuqzCc1g0"  # Bot tokeningiz
 
 # Yangi formatdagi Gemini API kaliti
-GEMINI_API_KEY = "AQ.Ab8RN6LP2eXmhEMes0uCNO47pyAsjhzETfCgCKKmS3LDOGdY-w"
+GEMINI_API_KEY = "AQ.Ab8RN6JhMaWcyAjlDsG3X-QGbxfWv85HLsBqdJYDs_OAqoaZfQ"
 
 # Gemini kalitini muhit o'zgaruvchisiga o'rnatamiz
 os.environ["GEMINI_API_KEY"] = GEMINI_API_KEY
